@@ -35,9 +35,10 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
+import com.qualcomm.robotcore.hardware.DcMotor;
+import com.qualcomm.robotcore.hardware.DcMotorSimple;
+import com.qualcomm.robotcore.robot.Robot;
 import com.qualcomm.robotcore.util.Range;
-
-import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
 
 /**
  * This file provides basic Telop driving for a Pushbot robot.
@@ -55,12 +56,12 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
  */
 
 @TeleOp(name="Pushbot: Teleop Tank", group="Pushbot")
-//@Disabled
+@Disabled
 public class PushbotTeleopTank_Iterative extends OpMode{
 
     /* Declare OpMode members. */
-    org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot robot       = new HardwarePushbot(); // use the class created to define a Pushbot's hardware
-                                                         // could also use HardwarePushbotMatrix class.
+    HardwarePushbot robot       = new HardwarePushbot(); // use the class created to define a Pushbot's hardware
+    // could also use HardwarePushbotMatrix class.
     double          clawOffset  = 0.0 ;                  // Servo mid position
     final double    CLAW_SPEED  = 0.02 ;                 // sets rate to move servo
 
@@ -91,15 +92,6 @@ public class PushbotTeleopTank_Iterative extends OpMode{
      */
     @Override
     public void start() {
-        robot.leftMotor.setPower(1);
-        robot.rightMotor.setPower(1);
-        try {
-            wait(1000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        telemetry.addData("Say", "Uh-oh");
-    }
     }
 
     /*
@@ -146,7 +138,6 @@ public class PushbotTeleopTank_Iterative extends OpMode{
      */
     @Override
     public void stop() {
-
     }
 
 }
