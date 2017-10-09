@@ -56,12 +56,14 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
 
 @TeleOp(name="Teleop2", group="Pushbot")
 //@Disabled
-public class Teleop2 extends OpMode{
+public class Teleop2 extends OpMode
+{
 
     /* Declare OpMode members. */
     org.firstinspires.ftc.teamcode.Teleop2Config robot       = new Teleop2Config(); // use the class created to define a Pushbot's hardware
                                                          // could also use HardwarePushbotMatrix class.
-    double          clawOffset  = 0.0 ;                  // Servo mid position
+    double          clawOffset  = 0.0 ;
+    // Servo mid position
     final double    CLAW_SPEED  = 0.02 ;                 // sets rate to move servo
 
 
@@ -69,6 +71,7 @@ public class Teleop2 extends OpMode{
      * Code to run ONCE when the driver hits INIT
      */
     @Override
+
     public void init() {
         /* Initialize the hardware variables.
          * The init() method of the hardware class does all the work here
