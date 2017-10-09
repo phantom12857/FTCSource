@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\FTCSource\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\FTCSource\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\advanced_rc_settings.xml",
+        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\advanced_rc_settings.xml"
+    },
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\k9usbbot.xml"
+    }
+]
