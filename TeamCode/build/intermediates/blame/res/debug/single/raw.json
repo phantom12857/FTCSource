@@ -1,46 +1,46 @@
 [
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_fragment_shader.glsl",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\7e25ece8162253c7ca3574ab84218a0cd0bddd38\\output\\res\\raw\\cube_mesh_fragment_shader.glsl"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/raw/cube_mesh_vertex_shader.glsl"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\7e25ece8162253c7ca3574ab84218a0cd0bddd38\\output\\res\\raw\\simple_vertex_shader.glsl"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/raw/cube_mesh_fragment_shader.glsl"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\7e25ece8162253c7ca3574ab84218a0cd0bddd38\\output\\res\\raw\\cube_mesh_vertex_shader.glsl"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/raw/chimedisconnect.wav"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\raw\\chimedisconnect.wav"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/raw/nxtstartupsound.wav"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\nxtstartupsound.wav",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\raw\\nxtstartupsound.wav"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/raw/simple_vertex_shader.glsl"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\raw\\chimeconnect.wav"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/raw/errormessage.wav"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\7e25ece8162253c7ca3574ab84218a0cd0bddd38\\output\\res\\raw\\texture_vertex_shader.glsl"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/raw/color_fragment_shader.glsl"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\warningmessage.wav",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\raw\\warningmessage.wav"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/raw/texture_vertex_shader.glsl"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\7e25ece8162253c7ca3574ab84218a0cd0bddd38\\output\\res\\raw\\texture_fragment_shader.glsl"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/raw/warningmessage.wav"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\7e25ece8162253c7ca3574ab84218a0cd0bddd38\\output\\res\\raw\\color_fragment_shader.glsl"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/raw/texture_fragment_shader.glsl"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\raw\\errormessage.wav"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/raw/chimeconnect.wav"
     }
 ]

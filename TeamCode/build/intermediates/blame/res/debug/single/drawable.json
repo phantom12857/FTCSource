@@ -1,18 +1,22 @@
 [
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\897fd79d4ef17a20472d78506163cdf5b02ae2f3\\output\\res\\drawable\\black_border.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/janiceyoo/.android/build-cache/a7ec8399251465acc4e95acc3a09148bd4babc30/output/res/drawable/icon_robotcontroller.png"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\fe4932f32e580f56be6b7df682189aa21da1461f\\output\\res\\drawable\\icon_menu.png"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/drawable/black_border.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/6b48f3c42de70edc027440165eecaece342e6606/output/res/drawable/black_border.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\drawable\\button_shape.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/drawable/button_shape.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/drawable/button_shape.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\fe4932f32e580f56be6b7df682189aa21da1461f\\output\\res\\drawable\\icon_robotcontroller.png"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/drawable/icon_menu.png",
+        "source": "/Users/janiceyoo/.android/build-cache/a7ec8399251465acc4e95acc3a09148bd4babc30/output/res/drawable/icon_menu.png"
     }
 ]

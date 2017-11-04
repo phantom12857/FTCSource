@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/janiceyoo/FTCSource/FtcRobotController/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_launcher.png"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\FTCSource\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/drawable-hdpi-v4/button_shape.xml"
     }
 ]

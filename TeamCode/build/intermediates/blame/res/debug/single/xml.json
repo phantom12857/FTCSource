@@ -1,34 +1,42 @@
 [
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\pushbot.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
+        "source": "/Users/janiceyoo/FTCSource/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\pushbotsens.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/rev_scoot.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "C:\\FTCSource\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\xml\\preferences.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/pushbotsens.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
-        "source": "C:\\FTCSource\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\xml\\device_filter.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/janiceyoo/FTCSource/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\squarebot.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/advanced_rc_settings.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\advanced_rc_settings.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\advanced_rc_settings.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/k9usbbot.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\k9legacybot.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/maxmodules.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/maxmodules.xml"
     },
     {
-        "merged": "C:\\FTCSource\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
-        "source": "C:\\Users\\sanji\\.android\\build-cache\\ae60aa45c663ee6e6e3f2bb5b70fe380af050e21\\output\\res\\xml\\k9usbbot.xml"
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/janiceyoo/.android/build-cache/96f614b3902c3c646376eb8f648d4a8f2c2cc12e/output/res/xml/pushbot.xml"
     }
 ]

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Blocks-release-">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/897fd79d4ef17a20472d78506163cdf5b02ae2f3/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/897fd79d4ef17a20472d78506163cdf5b02ae2f3/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/e67994161d1204f252a7231110fd0d464515f20a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e67994161d1204f252a7231110fd0d464515f20a/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

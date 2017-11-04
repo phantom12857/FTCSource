@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\FTCSource\\TeamCode\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "/Users/janiceyoo/FTCSource/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\FTCSource\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/janiceyoo/.android/build-cache/5679331c518cddeb11845b4c2dbef2b9a2216ef9/output/res/values-v14/values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
