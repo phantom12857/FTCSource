@@ -64,7 +64,7 @@ public class Teleop2 extends OpMode
                                                          // could also use HardwarePushbotMatrix class.
     double          clawOffset  = 0.0 ;
     // Servo mid position
-    final double    CLAW_SPEED  = 0.02 ;                 // sets rate to move servo
+    final double    CLAW_SPEED  = 0.2 ;                 // sets rate to move servo
 
 
     /*
@@ -103,6 +103,8 @@ public class Teleop2 extends OpMode
     public void loop() {
         double left;
         double right;
+        double up;
+        double down;
 
         // Run wheels in tank mode (note: The joystick goes negative when pushed forwards, so negate it)
         left = -gamepad1.left_stick_y;
@@ -110,10 +112,11 @@ public class Teleop2 extends OpMode
         robot.leftMotor.setPower(left);
         robot.rightMotor.setPower(right);
 
+        // attachments
         // Use gamepad left & right Bumpers to open and close the claw
-        if (gamepad1.right_bumper)
+        if (gamepad2.right_bumper)
             clawOffset += CLAW_SPEED;
-        else if (gamepad1.left_bumper)
+        else if (gamepad2.left_bumper)
             clawOffset -= CLAW_SPEED;
 
         // Move both servos to new position.  Assume servos are mirror image of each other.
@@ -122,14 +125,20 @@ public class Teleop2 extends OpMode
         robot.rightClaw.setPosition(robot.MID_SERVO - clawOffset);
 
         // Use gamepad buttons to move the arm up (Y) and down (A)
-        if (gamepad1.y)
+     /* if (gamepad2.y)
             robot.armMotor.setPower(robot.ARM_UP_POWER);
-        else if (gamepad1.a)
+        else if (gamepad2.a)
+            robot.armMotor.setPower(robot.ARM_DOWN_POWER);
+        else
+            robot.armMotor.setPower(0.0);*/
+     //Use gamepad2 right stick up and down for moving the arm up and down
+        if( gamepad2.right_stick_y < 0.0)
+            robot.armMotor.setPower(robot.ARM_UP_POWER);
+        else if ( gamepad2.right_stick_y > 0.0)
             robot.armMotor.setPower(robot.ARM_DOWN_POWER);
         else
             robot.armMotor.setPower(0.0);
-
-        // Send telemetry message to signify robot running;
+            // Send telemetry message to signify robot running;
         telemetry.addData("claw",  "Offset = %.2f", clawOffset);
         telemetry.addData("left",  "%.2f", left);
         telemetry.addData("right", "%.2f", right);
