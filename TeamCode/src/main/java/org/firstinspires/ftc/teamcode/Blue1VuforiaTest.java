@@ -65,6 +65,7 @@ public class Blue1VuforiaTest extends LinearOpMode {
 
         parameters.vuforiaLicenseKey = "AfE9DxH/////AAAAGcrngPAJ7E4TqYn3uMgUx3V6/3WIihTT/o/YLswntRi2cjsYSm/m3Z/qHvzyYz/qVSPSte7YI3PotVYJmXcFJ55W6oBZjfs2fL+IY5qg9Pr7VdFNSLLPkWfiUo1fPBO+Bj6b/3Mx6jJEZKBBN/+hFl7us/SLamHLzFHmqIrpXVimSaFRjLkWaYXvQSftZejBnvWSshdUeYD6zpwRhp4fzndH5BYk1Hg8vcEKN+066Wtd9B5TTOebK03VgZpKKVEhqcBLKWPnTKU1E233UCUJVypKFzG7Ua7xJ6AZSYFQ4mXEZSOYUnbqD4p1JQAfc9AixrI41EYwmONeit5La52mPF7nGT1RImiuSsEEPyiG/CWi\n";
 
+        //CAMERA DIRECTION
         parameters.cameraDirection = VuforiaLocalizer.CameraDirection.BACK;
         this.vuforia = ClassFactory.createVuforiaLocalizer(parameters);
 
@@ -92,15 +93,25 @@ public class Blue1VuforiaTest extends LinearOpMode {
 
             }
             if (vuMark == RelicRecoveryVuMark.LEFT) {
+
+                //time/distance for left column
                 keyColumn = 1;
+
             } else if (vuMark == RelicRecoveryVuMark.CENTER) {
+
+                //time/distance for center column
                 keyColumn = 2;
+
             } else if (vuMark == RelicRecoveryVuMark.RIGHT) {
+
+                //time/distance for right column
                 keyColumn = 3;
+
             }
 
         }
 
+        //STRAIGHT (distance with key column)
         robot.leftMotor.setPower(FORWARD_SPEED);
         robot.rightMotor.setPower(FORWARD_SPEED);
         runtime.reset();//
@@ -108,6 +119,8 @@ public class Blue1VuforiaTest extends LinearOpMode {
             telemetry.addData("Forward", "Leg 1: %2.5f S Elapsed", runtime.seconds());
             telemetry.update();
         }
+
+        //left
         robot.leftMotor.setPower(-TURN_SPEED);
         robot.rightMotor.setPower(TURN_SPEED);
         runtime.reset();
@@ -115,6 +128,8 @@ public class Blue1VuforiaTest extends LinearOpMode {
             telemetry.addData("Right Turn", "Leg 2: %2.5f S Elapsed", runtime.seconds());
             telemetry.update();
         }
+
+        //straight
         robot.rightMotor.setPower(FORWARD_SPEED);
         robot.leftMotor.setPower(FORWARD_SPEED);
         runtime.reset();
@@ -122,13 +137,17 @@ public class Blue1VuforiaTest extends LinearOpMode {
             telemetry.addData("Forward", "Leg 4: %2.5f S Elapsed", runtime.seconds());
             telemetry.update();
         }
+
+        //claw open
         robot.leftClaw.setPosition(-0.4);
         robot.rightClaw.setPosition(0.4);
         runtime.reset();
         while (opModeIsActive() && (runtime.seconds() <1)){
-            telemetry.addData("Claw Close", "Leg 5: %2.5f S Elapsed", runtime.seconds());
+            telemetry.addData("Claw Open", "Leg 5: %2.5f S Elapsed", runtime.seconds());
             telemetry.update();
         }
+
+        //stop
         robot.leftMotor.setPower(0);
         robot.rightMotor.setPower(0);
         robot.leftClaw.setPosition(0.0);
